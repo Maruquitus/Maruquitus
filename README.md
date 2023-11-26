@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://stats-mcr98swsj-maruquitus-projects.vercel.app/api?username=maruquitus&show_icons=true&theme=dark)
-![iuricode](https://stats-mcr98swsj-maruquitus-projects.vercel.app/api/top-langs/?username=maruquitus&hide=html&layout=compact&theme=dark)
+![GitHub Stats](https://stats-lbmghu9jt-maruquitus-projects.vercel.app/api?username=maruquitus&show_icons=true&theme=dark)
+![iuricode](https://stats-lbmghu9jt-maruquitus-projects.vercel.app/api/top-langs/?username=maruquitus&hide=html&layout=compact&theme=dark)
