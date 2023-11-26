@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 > Apaixonado por programação desde o 7º ano.
 > Me identifico principalmente com desenvolvimento Web e Mobile.
 
-🔭 Desenvolvendo atualmente meu projeto da Feira de Ciências que utiliza React Native, CorrAut.
+🔭 Desenvolvendo atualmente meu projeto para a etapa estadual do Ceará Científico utilizando React Native, AWS e Python, <a href="https://corraut.com.br">CorrAut</a>.
 
 💬 Instagram: <a href="https://www.instagram.com/maruquiturus/">@Maruquiturus</a>
 ## 🚀 Minhas Skills
@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maruquitus&show_icons=true&theme=dark)
-![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=maruquitus&hide=html&layout=compact&theme=dark)
+![GitHub Stats](https://stats-mcr98swsj-maruquitus-projects.vercel.app/api?username=maruquitus&show_icons=true&theme=dark)
+![iuricode](https://stats-mcr98swsj-maruquitus-projects.vercel.app/api/top-langs/?username=maruquitus&hide=html&layout=compact&theme=dark)
