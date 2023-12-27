@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 <code><img height="32" src="https://github.com/Maruquitus/Maruquitus/assets/58173530/cbecd9b4-f3eb-4a44-bc62-918462b16dbe" alt="MongoDB"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase"/></code>
+<code><img height="32" src="https://avatars.githubusercontent.com/u/30317862?s=200&v=4" alt="Tailwind"/></code>
+<code><img height="32" src="https://github.com/Maruquitus/Maruquitus/assets/58173530/fd731e65-c811-4313-9ca9-cef14202b4e4" alt="Next.js"/></code>
 
 ---
 
