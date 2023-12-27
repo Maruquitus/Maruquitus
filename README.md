@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 > Apaixonado por programação desde o 7º ano.
 > Me identifico principalmente com desenvolvimento Web e Mobile.
 
-🔭 Desenvolvendo atualmente meu projeto para a etapa estadual do Ceará Científico utilizando React Native, AWS e Python, <a href="https://corraut.com.br">CorrAut</a>.
+🔭 Desenvolvedor do projeto ganhador da etapa regional do Ceará Científico que utiliza React Native, AWS e Python, <a href="https://corraut.com.br">CorrAut</a>.
 
 💬 Instagram: <a href="https://www.instagram.com/maruquiturus/">@Maruquiturus</a>
 ## 🚀 Minhas Skills
