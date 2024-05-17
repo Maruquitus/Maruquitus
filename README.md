@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 
 🔭 Desenvolvedor do projeto ganhador da etapa regional do Ceará Científico 2023 que utiliza aprendizado de máquina, React Native, AWS e Python, <a href="https://corraut.com.br">CorrAut</a>.
 
-💬 Instagram: <a href="https://www.instagram.com/maruquiturus/">@Maruquiturus</a>
+* 💬 Instagram: <a href="https://www.instagram.com/maruquiturus/">@Maruquiturus</a> <br>
+* 🌐 Portfólio: <a href="https://marcos-sousa.vercel.app">marcos-sousa.vercel.app</a>
+
 ## 🚀 Minhas Skills
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
 <code><img height="32" src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="Django"/></code>
