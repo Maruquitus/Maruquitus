@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 > Apaixonado por programação desde o 7º ano.
 > Me identifico principalmente com desenvolvimento Web e Mobile.
 
-🔭 Desenvolvedor do projeto ganhador da etapa regional do Ceará Científico 2023 que utiliza aprendizado de máquina, React Native, AWS e Python, <a href="https://corraut.com.br">CorrAut</a>.
+🔭 Desenvolvedor do projeto ganhador da etapa regional do Ceará Científico 2023 que utiliza aprendizado de máquina, React Native, AWS e Python, CorrAut.
 
 <a href="https://marcos-sousa.vercel.app"> ![Portifólio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white) </a>
 <a href="https://instagram.com/Maruquiturus"> ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
