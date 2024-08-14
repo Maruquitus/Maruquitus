@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ---
 
 ## 🌐 Principais repositórios
- [![Readme Card](https://stats-rk4evwpye-maruquitus-projects.vercel.app/api/pin/?username=maruquitus&repo=login-e-registro&theme=dark)](https://github.com/maruquitus/login-e-registro)
+ [![Readme Card](https://stats-rk4evwpye-maruquitus-projects.vercel.app/api/pin/?username=maruquitus&repo=escola-transparente&theme=dark)](https://github.com/maruquitus/login-e-registro)
   [![Readme Card](https://stats-rk4evwpye-maruquitus-projects.vercel.app/api/pin/?username=maruquitus&repo=chat-web&theme=dark)](https://github.com/maruquitus/chat-web)
  [![Readme Card](https://stats-rk4evwpye-maruquitus-projects.vercel.app/api/pin/?username=maruquitus&repo=tetoka&theme=dark)](https://github.com/maruquitus/escola-transparente)
  [![Readme Card](https://stats-rk4evwpye-maruquitus-projects.vercel.app/api/pin/?username=maruquitus&repo=corretor&theme=dark)](https://github.com/maruquitus/corretor)
