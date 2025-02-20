@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 
 ## 👋 Olá, meu nome é <strong>Marcos Sousa!</strong>
-> Estudante do 3º Ano Técnico em Informática da EEEP Edson Queiroz. 
+> Atualmente cursando Sistemas de Informação na Universidade 7 de Setembro.
+> Técnico em Informática pela EEEP Edson Queiroz. 
 > Apaixonado por programação desde o 7º ano.
 > Me identifico principalmente com desenvolvimento Web e Mobile.
 
