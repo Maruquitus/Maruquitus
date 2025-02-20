@@ -16,13 +16,11 @@ Here are some ideas to get you started:
 ## 👋 Olá, meu nome é <strong>Marcos Sousa!</strong>
 > Atualmente cursando Sistemas de Informação na Universidade 7 de Setembro.
 > Técnico em Informática pela EEEP Edson Queiroz. 
-> Apaixonado por programação desde o 7º ano.
 > Me identifico principalmente com desenvolvimento Web e Mobile.
 
 🔭 Desenvolvedor do projeto ganhador da etapa regional do Ceará Científico 2023 que utiliza aprendizado de máquina, React Native, AWS e Python, CorrAut.
 
 <a href="https://marcos-sousa.vercel.app"> ![Portifólio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white) </a>
-<a href="https://instagram.com/Maruquiturus"> ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
 <a href="https://linkedin.com/in/marcos-sousa-39aaa6262/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 
 ## 🚀 Minhas Skills
@@ -40,6 +38,7 @@ Here are some ideas to get you started:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
